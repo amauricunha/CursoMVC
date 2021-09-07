@@ -3,7 +3,7 @@
 - Aplicação .NET Core MVC
 - Aplicação .NET Core WEB API com Swagger
 - Teste com xUnit
-- Publicação do Azure
+- Publicação do Azure: https://cursomvc20210906205549.azurewebsites.net
 
 
 ## Ajustes para rodar
